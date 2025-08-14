@@ -4,16 +4,16 @@ Welcome to the Store Management Desktop Application repository! This application
 
 ## FEATURES ✨
 
-- **Inventory Management:** 📦 Keep track of your store's inventory efficiently.
-- **Sales Tracking:** 📈 Monitor sales and revenue easily.
-- **Customer Management:** 🧑‍🤝‍🧑 Maintain a database of customers for improved service.
-- **User-Friendly Interface:** 🖥️ Intuitive design for easy navigation.
+- **Inventory Management** 📦 Keep track of your store's inventory efficiently.
+- **Sales Tracking** 📈 Monitor sales and revenue easily.
+- **Customer Management** 🧑‍🤝‍🧑 Maintain a database of customers for improved service.
+- **User-Friendly Interface** 🖥️ Intuitive design for easy navigation.
 
 ## TECHNOLOGIES 🚀
 
-- **C#:** 💻 Programming language used for application development.
-- **SQL Server:** 🗄️ Relational database management system utilized for storing application data.
-- **Visual Studio:** 🛠️ Integrated development environment (IDE) used for coding and building the application.
+- **C#** 💻 Programming language used for application development.
+- **SQL Server** 🗄️ Relational database management system utilized for storing application data.
+- **Visual Studio** 🛠️ Integrated development environment (IDE) used for coding and building the application.
 
 ## DEMO 🎬
 
